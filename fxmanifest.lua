@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'AICORE_Vineyard'
-repository 'https://github.com/0error-scripts/aicore_vineyard'
+repository 'https://github.com/aicore-fivem/aicore_vineyard'
 version '1.0.0'
 
 shared_scripts {

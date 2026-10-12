@@ -7,7 +7,7 @@ Vineyard Job For QBOX
 
 ## Dependencies
 
-- [aicore](https://github.com/0error-scripts/aicore)
+- [aicore](https://github.com/aicore-fivem/aicore)
 - [ox_lib](https://github.com/communityox/ox_lib)
 - [ox_inventory](https://github.com/communityox/ox_inventory)
 
